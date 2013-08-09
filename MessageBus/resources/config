@@ -1,4 +1,0 @@
-oauth_server_validate_uri = http://localhost:6767/oauth/validate
-topic_schema_file_path = swot_messaging_schema/topicSchema.xml
-property_schema_file_path = swot_messaging_schema/propertySchema.xml
-push_record_keeping = false
