@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<properties>
+    <property>id</property>
+    <property>protocol</property>
+    <property>URN</property>
+    <property>modelName</property>
+    <property>color</property>
+    <property>location</property>
+    <property>manufacturer</property>
+    <property>name</property>
+    <property>productClass</property>
+    <property>serialNumber</property>
+    <property>shape</property>
+</properties>
